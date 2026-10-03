@@ -21,7 +21,6 @@
   - `ClickableWidget` → `AbstractWidget`，`Text` → `Component`
 - Mixin `compatibilityLevel` 提升至 `JAVA_25`（Loader 0.19.x 内置 Mixin 0.8.7 支持）。
 - `fabric.mod.json`：`environment` 改为 `client`，`depends` 改为 `minecraft >=26.2 <26.3`、`java >=25`。
-- 图标因原仓库二进制资源无法完整获取，使用程序生成的替代图标。
 
 ## 构建
 
